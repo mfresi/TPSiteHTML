@@ -1,0 +1,46 @@
+.corps
+{
+height:100%;
+width:100%;
+}
+.entete
+{
+    background-color:#190707;
+    width:100%;
+    text-align: center;
+}
+h1
+{
+    color: #FFFFFF;
+}
+.contenu
+{
+    height:100%;
+    width:100%;
+}
+.emmanuelmacron
+{
+   float: left; 
+   margin-top: 20px;
+   width:50%;
+   text-align: center;
+}
+.francoishollande
+{
+    margin-top: 20px;
+    float: right;
+    width:50%;
+    text-align: center;
+}
+.nicolassarkozy
+{
+    margin-top: 20px;
+    width:50%;
+    text-align: center;  
+}
+.jacqueschirac
+{
+    margin-top: 20px;
+    width:50%;
+    text-align: center;  
+}
