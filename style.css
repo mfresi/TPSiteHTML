@@ -32,15 +32,45 @@ h1
     width:50%;
     text-align: center;
 }
-.nicolassarkozy
+.jacqueschirac
 {
+    float: right;
     margin-top: 20px;
     width:50%;
     text-align: center;  
 }
-.jacqueschirac
+.nicolassarkozy
 {
+    float: right;
     margin-top: 20px;
     width:50%;
     text-align: center;  
+}
+.valerygiscarddestaing
+{
+    float: right;
+    margin-top: 20px;
+    width:50%;
+    text-align: center; 
+}
+.francoismitterrand
+{
+    float: right;
+    margin-top: 20px;
+    width:50%;
+    text-align: center;     
+}
+.charlesdegaulle
+{
+    float: right;
+    margin-top: 20px;
+    width:50%;
+    text-align: center;    
+}
+.georgespompidou
+{
+    float: left;
+    margin-top: 20px;
+    width:50%;
+    text-align: center; 
 }
